@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : sourabhaswal98/my-notes-app:latest
+     image : 106057787570.dkr.ecr.us-east-1.amazonaws.com/my-notes-application
      ports :
          - "8000:8000"
